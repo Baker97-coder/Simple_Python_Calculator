@@ -2,9 +2,9 @@ from tkinter import *
 
 root = Tk()
 root.title("Python Calculator")
-photo = PhotoImage(file="calculator-icon(64).png")
-root.iconphoto(False, photo)
-root.iconbitmap(r'calc_icon.ico')
+#photo = PhotoImage(file="calculator-icon(64).png")
+#root.iconphoto(False, photo)
+
 
 # https://iconarchive.com/show/100-flat-2-icons-by-graphicloads/calculator-icon.html
 # artist: GraphicLoads
